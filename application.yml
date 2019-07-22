@@ -1,0 +1,6 @@
+---
+# Form running gradle locally
+spring:
+  profiles:
+    active: local
+

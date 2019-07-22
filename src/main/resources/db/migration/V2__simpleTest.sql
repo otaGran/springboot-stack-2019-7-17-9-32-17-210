@@ -1,0 +1,1 @@
+ALTER TABLE procurator ADD idnumber varchar(255);
